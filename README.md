@@ -9,6 +9,6 @@ Password generator I made in python rewritten in rust, with some added features.
 5. Run it by executing the file in your terminal
 
 # Arguments
-`-o`: output file (default: passwords.txt)
-`-l`: password length (default: 8)
-`-s`: service used for password (default: undefined)
+`-o`: output file (default: passwords.txt)  
+`-l`: password length (default: 8)  
+`-s`: service used for password (default: undefined)  
