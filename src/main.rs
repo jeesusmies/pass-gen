@@ -7,7 +7,7 @@ use rand::{self, Rng, rngs};
 fn gen_pass(chars: String, pass_len: u8, mut rng: rngs::ThreadRng) -> String {
     let mut s = String::new();
 
-    for _i in 0..pass_len+1 {
+    for _i in 0..pass_len + 1 {
         let rnd_num = rng.gen_range(0, chars.len());
         s.push_str(&chars[rnd_num..rnd_num+1])
     }
