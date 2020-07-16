@@ -11,4 +11,5 @@ Password generator I made in python rewritten in rust, with some added features.
 # Arguments
 `-o`: output file (default: passwords.txt)  
 `-l`: password length (default: 8)  
-`-s`: service used for password (default: undefined)  
+`-s`: service used (default: undefined)  
+        ^-- (e.g youtube)
