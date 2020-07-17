@@ -12,7 +12,7 @@ pass_gen.exe <arguments> (Windows)
 ```
 
 ## Arguments
-`-gw`: generate weak password (default: false)  
+`-gwp`: generate weak password (default: false)  
 `-o`: output file (default: passwords.txt)  
 `-l`: password length (default: 8)  
 `-s`: service used (default: undefined)  
