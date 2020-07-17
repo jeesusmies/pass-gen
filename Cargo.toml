@@ -1,6 +1,6 @@
 [package]
-name = "pass_gen"
-version = "1.0.0"
+name = "pass-gen"
+version = "1.1.0"
 authors = ["jeesusmies"]
 edition = "2018"
 
