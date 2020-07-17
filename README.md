@@ -11,11 +11,13 @@ cd target/release
 ```
 
 ## Arguments
+`-gw`: generate weak password (default: false)  
 `-o`: output file (default: passwords.txt)  
 `-l`: password length (default: 8)  
-`-gw`: generate weak password (default: false)  
 `-s`: service used (default: undefined)  
-&nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  ^-- e.g youtube
+&nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  ^-- e.g youtube  
+  
+**If generating a weak password, `-l` is unnecessary.**
 
 
 ## License :scroll:
