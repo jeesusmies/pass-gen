@@ -7,8 +7,8 @@ Simple Password generator written in rust, with some additional features.
 git clone https://github.com/jeesusmies/pass-gen ; cd pass-gen
 cargo build --release
 cd target/release
-./pass_gen <arguments> (Unix)
-pass_gen.exe <arguments> (Windows)
+./pass-gen <arguments> (Unix)
+pass-gen.exe <arguments> (Windows)
 ```
 
 ## Arguments
