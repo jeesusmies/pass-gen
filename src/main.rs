@@ -1,3 +1,5 @@
+// Orginally Created By jeesusmies under the terms of GNU General Public License v3.0
+
 use std::env;
 use std::fs::{self, File};
 use std::io::prelude::*;
